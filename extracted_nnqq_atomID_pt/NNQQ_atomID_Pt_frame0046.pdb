@@ -1,0 +1,134 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1  141.133   61.749   60.183  90.07  98.38  90.89 P 1           1
+ATOM      1  N   ASN X 977      73.180  35.090  23.950  1.00  0.00      seg_ N  
+ATOM      2  HT1 ASN X 977      73.360  35.460  24.900  1.00  0.00      seg_ H  
+ATOM      3  HT2 ASN X 977      74.020  35.180  23.340  1.00  0.00      seg_ H  
+ATOM      4  HT3 ASN X 977      72.880  34.100  24.040  1.00  0.00      seg_ H  
+ATOM      5  CA  ASN X 977      72.110  35.820  23.210  1.00  0.00      seg_ C  
+ATOM      6  HA  ASN X 977      72.090  35.390  22.220  1.00  0.00      seg_ H  
+ATOM      7  CB  ASN X 977      70.730  35.520  23.850  1.00  0.00      seg_ C  
+ATOM      8  HB1 ASN X 977      70.580  35.790  24.920  1.00  0.00      seg_ H  
+ATOM      9  HB2 ASN X 977      70.680  34.420  23.780  1.00  0.00      seg_ H  
+ATOM     10  CG  ASN X 977      69.620  35.940  22.890  1.00  0.00      seg_ C  
+ATOM     11  OD1 ASN X 977      69.820  36.250  21.710  1.00  0.00      seg_ O  
+ATOM     12  ND2 ASN X 977      68.370  36.010  23.400  1.00  0.00      seg_ N  
+ATOM     13 HD21 ASN X 977      67.550  36.100  22.840  1.00  0.00      seg_ H  
+ATOM     14 HD22 ASN X 977      68.440  36.150  24.390  1.00  0.00      seg_ H  
+ATOM     15  C   ASN X 977      72.380  37.300  22.950  1.00  0.00      seg_ C  
+ATOM     16  O   ASN X 977      73.170  37.690  22.060  1.00  0.00      seg_ O  
+ATOM     17  N   ASN X 978      71.900  38.140  23.850  1.00  0.00      seg_ N  
+ATOM     18  HN  ASN X 978      71.430  37.880  24.690  1.00  0.00      seg_ H  
+ATOM     19  CA  ASN X 978      72.250  39.560  23.810  1.00  0.00      seg_ C  
+ATOM     20  HA  ASN X 978      72.660  39.800  22.840  1.00  0.00      seg_ H  
+ATOM     21  CB  ASN X 978      71.040  40.500  24.150  1.00  0.00      seg_ C  
+ATOM     22  HB1 ASN X 978      71.400  41.550  24.030  1.00  0.00      seg_ H  
+ATOM     23  HB2 ASN X 978      70.580  40.330  25.150  1.00  0.00      seg_ H  
+ATOM     24  CG  ASN X 978      69.880  40.390  23.160  1.00  0.00      seg_ C  
+ATOM     25  OD1 ASN X 978      68.770  39.970  23.480  1.00  0.00      seg_ O  
+ATOM     26  ND2 ASN X 978      70.120  40.800  21.900  1.00  0.00      seg_ N  
+ATOM     27 HD21 ASN X 978      69.340  40.830  21.260  1.00  0.00      seg_ H  
+ATOM     28 HD22 ASN X 978      71.050  40.970  21.590  1.00  0.00      seg_ H  
+ATOM     29  C   ASN X 978      73.280  39.730  24.940  1.00  0.00      seg_ C  
+ATOM     30  O   ASN X 978      73.420  38.940  25.900  1.00  0.00      seg_ O  
+ATOM     31  N   GLN X 979      74.100  40.790  24.810  1.00  0.00      seg_ N  
+ATOM     32  HN  GLN X 979      73.840  41.540  24.200  1.00  0.00      seg_ H  
+ATOM     33  CA  GLN X 979      75.150  41.030  25.730  1.00  0.00      seg_ C  
+ATOM     34  HA  GLN X 979      75.450  40.070  26.110  1.00  0.00      seg_ H  
+ATOM     35  CB  GLN X 979      76.300  41.760  25.030  1.00  0.00      seg_ C  
+ATOM     36  HB1 GLN X 979      77.040  42.190  25.730  1.00  0.00      seg_ H  
+ATOM     37  HB2 GLN X 979      75.970  42.690  24.510  1.00  0.00      seg_ H  
+ATOM     38  CG  GLN X 979      77.060  41.000  23.950  1.00  0.00      seg_ C  
+ATOM     39  HG1 GLN X 979      77.940  41.610  23.650  1.00  0.00      seg_ H  
+ATOM     40  HG2 GLN X 979      76.340  40.950  23.100  1.00  0.00      seg_ H  
+ATOM     41  CD  GLN X 979      77.480  39.560  24.150  1.00  0.00      seg_ C  
+ATOM     42  OE1 GLN X 979      76.840  38.660  23.580  1.00  0.00      seg_ O  
+ATOM     43  NE2 GLN X 979      78.390  39.280  25.130  1.00  0.00      seg_ N  
+ATOM     44 HE21 GLN X 979      78.660  38.320  25.250  1.00  0.00      seg_ H  
+ATOM     45 HE22 GLN X 979      78.640  39.970  25.810  1.00  0.00      seg_ H  
+ATOM     46  C   GLN X 979      74.740  41.850  26.940  1.00  0.00      seg_ C  
+ATOM     47  O   GLN X 979      73.760  42.620  26.850  1.00  0.00      seg_ O  
+ATOM     48  N   GLN X 980      75.490  41.750  28.070  1.00  0.00      seg_ N  
+ATOM     49  HN  GLN X 980      76.380  41.310  27.990  1.00  0.00      seg_ H  
+ATOM     50  CA  GLN X 980      75.320  42.460  29.320  1.00  0.00      seg_ C  
+ATOM     51  HA  GLN X 980      74.400  43.020  29.290  1.00  0.00      seg_ H  
+ATOM     52  CB  GLN X 980      75.070  41.500  30.530  1.00  0.00      seg_ C  
+ATOM     53  HB1 GLN X 980      74.150  40.920  30.330  1.00  0.00      seg_ H  
+ATOM     54  HB2 GLN X 980      74.910  42.060  31.480  1.00  0.00      seg_ H  
+ATOM     55  CG  GLN X 980      76.170  40.460  30.770  1.00  0.00      seg_ C  
+ATOM     56  HG1 GLN X 980      77.120  40.900  30.430  1.00  0.00      seg_ H  
+ATOM     57  HG2 GLN X 980      75.950  39.580  30.120  1.00  0.00      seg_ H  
+ATOM     58  CD  GLN X 980      76.260  40.040  32.230  1.00  0.00      seg_ C  
+ATOM     59  OE1 GLN X 980      77.180  40.490  32.910  1.00  0.00      seg_ O  
+ATOM     60  NE2 GLN X 980      75.330  39.150  32.770  1.00  0.00      seg_ N  
+ATOM     61 HE21 GLN X 980      75.730  38.610  33.510  1.00  0.00      seg_ H  
+ATOM     62 HE22 GLN X 980      74.680  38.710  32.160  1.00  0.00      seg_ H  
+ATOM     63  C   GLN X 980      76.510  43.380  29.520  1.00  0.00      seg_ C  
+ATOM     64  OT1 GLN X 980      76.370  44.550  29.900  1.00  0.00      seg_ O  
+ATOM     65  OT2 GLN X 980      77.650  42.910  29.090  1.00  0.00      seg_ O  
+ATOM     66 Pt   Pt  X1031      64.950  32.190  26.400  1.00  0.00      seg_ K  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1    6    7   15
+CONECT    6    5
+CONECT    7    5    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7   11   12
+CONECT   11   10
+CONECT   12   10   13   14
+CONECT   13   12
+CONECT   14   12
+CONECT   15    5   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   17
+CONECT   19   17   20   21   29
+CONECT   20   19
+CONECT   21   19   22   23   24
+CONECT   22   21
+CONECT   23   21
+CONECT   24   21   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26
+CONECT   29   19   30   31
+CONECT   30   29
+CONECT   31   29   32   33
+CONECT   32   31
+CONECT   33   31   34   35   46
+CONECT   34   33
+CONECT   35   33   36   37   38
+CONECT   36   35
+CONECT   37   35
+CONECT   38   35   39   40   41
+CONECT   39   38
+CONECT   40   38
+CONECT   41   38   42   43
+CONECT   42   41
+CONECT   43   41   44   45
+CONECT   44   43
+CONECT   45   43
+CONECT   46   33   47   48
+CONECT   47   46
+CONECT   48   46   49   50
+CONECT   49   48
+CONECT   50   48   51   52   63
+CONECT   51   50
+CONECT   52   50   53   54   55
+CONECT   53   52
+CONECT   54   52
+CONECT   55   52   56   57   58
+CONECT   56   55
+CONECT   57   55
+CONECT   58   55   59   60
+CONECT   59   58
+CONECT   60   58   61   62
+CONECT   61   60
+CONECT   62   60
+CONECT   63   50   64   65
+CONECT   64   63
+CONECT   65   63
+END
