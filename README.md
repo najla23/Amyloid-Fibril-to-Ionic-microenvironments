@@ -1,5 +1,4 @@
-# Amyloid-Fibril-to-Ionic-microenvironments
-
+# Driving Forces of Amyloid Protofibril Stability
 This repository contains the computational workflows, analysis scripts, and supporting data for the study:
 
 Driving Forces of Amyloid Protofibril Stability
