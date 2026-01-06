@@ -5,6 +5,23 @@ import glob
 import re
 import os
 
+"""
+Author: Najla Hosseini
+Email: najla.hosseini@gmail.com| najla.hosseini@ki.se
+Affiliation: Department of Oncology-Pathology, Karolinska Institutet,
+SE-171 77 Stockholm, Sweden
+
+Description:
+This code implements a computational framework combining molecular dynamics,
+the Jarzynski estimator, and symmetry-adapted perturbation theory (SAPT)
+to analyze amyloid protofibril stability.
+
+Citation:
+If you use this code in your research, please cite my article.
+
+"""
+
+
 directories = [
     "NNQQ_Water",
     "NNQQ_WaterNaCl",
