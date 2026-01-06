@@ -2,7 +2,7 @@
 
 This repository contains the computational workflows, analysis scripts, and supporting data for the study:
 
-Thermodynamics of Amyloid Peptide Transfer from Crystalline Fibrils into Ionic Microenvironments
+Driving Forces of Amyloid Protofibril Stability
 
 The project investigates the thermodynamic stability of amyloid-forming peptides as they transition from an ordered crystalline fibril state into solvated ionic environments, using a combination of molecular dynamics simulations, nonequilibrium free-energy methods, and quantum chemical calculations.
 
