@@ -1,7 +1,10 @@
 # Driving Forces of Amyloid Protofibril Stability
 This repository contains the computational workflows, analysis scripts, and supporting data for the study:
 
-Driving Forces of Amyloid Protofibril Stability
+**Driving Forces of Amyloid Protofibril Stability**
+
+DOI: https://doi.org/10.26434/chemrxiv-2026-skt9d
+
 
 The project investigates the thermodynamic stability of amyloid-forming peptides as they transition from an ordered crystalline fibril state into solvated ionic environments, using a combination of molecular dynamics simulations, nonequilibrium free-energy methods, and quantum chemical calculations.
 
