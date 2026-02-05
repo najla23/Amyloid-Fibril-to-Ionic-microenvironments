@@ -13,13 +13,14 @@ The project has been supported by financial support from the Sven och Lilly Laws
 ----------------------------------
 In this work, we introduce a free-energy framework that explicitly tracks peptide detachment from amyloid crystals into solution. The approach combines:
 
-All-atom steered molecular dynamics (SMD)
+- All-atom steered molecular dynamics (SMD).
 
-Jarzynski-based free-energy reconstruction
+- Jarzynski-based free-energy reconstruction.
 
-Symmetry-adapted perturbation theory (SAPT) for ion–peptide interaction analysis
+- Symmetry-adapted perturbation theory (SAPT) for ion–peptide interaction analysis
 
-The framework is applied to the NNQQ peptide, a minimal amyloidogenic motif derived from the yeast prion Sup35, in different ionic environments (water, NaCl, and KCl).
+- The framework is applied to the NNQQ peptide, a minimal amyloidogenic motif derived from the yeast prion Sup35, in different ionic environments (water, NaCl, and KCl).
+
 
 The overall computational workflow is illustrated below.
 
