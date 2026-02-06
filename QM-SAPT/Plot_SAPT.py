@@ -180,8 +180,8 @@ print("LaTeX table written to SAPT_components_conformations.tex")
 ############################################
 fig, axes = plt.subplots(2, 1, figsize=(8, 8), sharex=True)
 
-plot_components(axes[0], sapt_k, ion_label="K⁺", panel_label="A")
-plot_components(axes[1], sapt_na, ion_label="Na⁺", panel_label="B")
+plot_components(axes[0], sapt_na, ion_label="Na⁺", panel_label="A")
+plot_components(axes[1], sapt_k, ion_label="K⁺", panel_label="B")
 
 axes[1].set_xlabel("Conformations", fontsize=16)
 
