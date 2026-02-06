@@ -1,7 +1,0 @@
-[ moleculetype ]
-; name	nrexcl
-CL	     1
-
-[ atoms ]
-; nr	type	resnr	residu	atom	cgnr	charge	mass
-     1        CL      1      CL    CL      1     -1.000    35.4500   ; qtot -1.000
