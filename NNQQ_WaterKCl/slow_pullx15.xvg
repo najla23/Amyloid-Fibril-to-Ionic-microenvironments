@@ -4,7 +4,7 @@
 # 
 # Executable:   /sw/easybuild_milan/software/GROMACS/2022.3-foss-2021b-nogmxapi/bin/gmx_mpi
 # Data prefix:  /sw/easybuild_milan/software/GROMACS/2022.3-foss-2021b-nogmxapi
-# Working dir:  /home/najla/order/WaterKCl/jarzynski-slow_10
+# Working dir:  /home/najla/order/male_kcl/jarzynski-slow_10
 # Command line:
 #   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s k.tpr -deffnm slow -c slow.gro
 # gmx mdrun is part of G R O M A C S:

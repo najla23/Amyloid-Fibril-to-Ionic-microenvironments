@@ -4,9 +4,9 @@
 # 
 # Executable:   /software/sse/manual/GROMACS/2022.2/g93/nsc1/bin/gmx_mpi
 # Data prefix:  /software/sse/manual/GROMACS/2022.2/g93/nsc1
-# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/WaterNaCl/jarzynski-slow_16
+# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/male/jarzynski-slow_16
 # Command line:
-#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullWaterNaCl.tpr -deffnm slow -c slow.gro
+#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullmale.tpr -deffnm slow -c slow.gro
 # gmx mdrun is part of G R O M A C S:
 #
 # Great Red Oystrich Makes All Chemists Sane

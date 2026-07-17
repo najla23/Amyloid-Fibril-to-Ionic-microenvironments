@@ -4,9 +4,9 @@
 # 
 # Executable:   /software/sse/manual/GROMACS/2022.2/g93/nsc1/bin/gmx_mpi
 # Data prefix:  /software/sse/manual/GROMACS/2022.2/g93/nsc1
-# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/Water/jarzynski-slow_18
+# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/control/jarzynski-slow_18
 # Command line:
-#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullWater.tpr -deffnm slow -c slow.gro
+#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullcontrol.tpr -deffnm slow -c slow.gro
 # gmx mdrun is part of G R O M A C S:
 #
 # Great Red Owns Many ACres of Sand 

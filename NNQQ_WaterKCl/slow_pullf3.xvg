@@ -4,9 +4,9 @@
 # 
 # Executable:   /software/sse/manual/GROMACS/2022.2/g93/nsc1/bin/gmx_mpi
 # Data prefix:  /software/sse/manual/GROMACS/2022.2/g93/nsc1
-# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/WaterKCl/jarzynski-slow_8
+# Working dir:  /proj/naiss2025-22-1484/users/x_najho/order/male_kcl/jarzynski-slow_8
 # Command line:
-#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullWaterKCl.tpr -deffnm slow -c slow.gro
+#   gmx_mpi mdrun -ntomp 1 -dd 8 2 2 -s pullmale_k.tpr -deffnm slow -c slow.gro
 # gmx mdrun is part of G R O M A C S:
 #
 # Glycine aRginine prOline Methionine Alanine Cystine Serine
