@@ -35,3 +35,9 @@ The overall computational workflow is illustrated below.
 
 
 Figure: Schematic representation of the computational framework used to construct amyloid crystal models, perform nonequilibrium pulling simulations, calculate free-energy profiles, and analyze ion–peptide interactions using quantum chemical methods.
+
+
+
+
+[![Hits](https://hits.sh/github.com/najla23/Amyloid-Fibril-to-Ionic-microenvironments.svg)](https://hits.sh/github.com/najla23/Amyloid-Fibril-to-Ionic-microenvironments/)
+
