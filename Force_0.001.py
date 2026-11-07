@@ -23,21 +23,21 @@ If you use this code in your research, please cite my article.
 
 
 directories = [
-    "NNQQ_Water",
-    "NNQQ_WaterNaCl",
-    "NNQQ_WaterKCl",
+    "NNQQ_Water_0.001",
+    "NNQQ_WaterNaCl_0.001",
+    "NNQQ_WaterKCl_0.001",
 ]
 
 label_dict = {
-    "NNQQ_Water": "NNQQ+Water",
-    "NNQQ_WaterNaCl": "NNQQ+Water_NaCl",
-    "NNQQ_WaterKCl": "NNQQ+Water_KCl",
+    "NNQQ_Water_0.001": "NNQQ+Water",
+    "NNQQ_WaterNaCl_0.001": "NNQQ+Water_NaCl",
+    "NNQQ_WaterKCl_0.001": "NNQQ+Water_KCl",
 }
 
 color_dict = {
-    "NNQQ_Water": "orange",
-    "NNQQ_WaterNaCl": "magenta",
-    "NNQQ_WaterKCl": "purple",
+    "NNQQ_Water_0.001": "orange",
+    "NNQQ_WaterNaCl_0.001": "magenta",
+    "NNQQ_WaterKCl_0.001": "purple",
 }
 
 panel_labels = ["A", "B", "C"]
