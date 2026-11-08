@@ -27,6 +27,12 @@
 
 ---
 
+## NNQQ1 — KCl simulation trajectory
+
+https://github.com/user-attachments/assets/e6132a06-1c1f-40ce-8f0a-d88e164e54d9
+
+
+
 ## Research question
 
 **What holds an amyloid protofibril together, and how do ions change the balance?**
