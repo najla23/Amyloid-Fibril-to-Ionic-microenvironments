@@ -1,0 +1,31 @@
+Jarzynski free-energy analysis with trajectory-level bootstrap uncertainty
+==============================================================================
+
+Temperature: 298.15 K
+kT: 0.00831446 kJ/mol
+Bootstrap samples: 2000
+Common grid points: 3000
+Smoothing window: 200
+Displayed uncertainty: sem
+
+System: NNQQ+Water
+Directory: NNQQ_Water0.0001
+Valid trajectories: 15
+Common coordinate range: 0.91075600 to 5.04411000 nm
+Final relative free energy: -172.66692762 kJ/mol
+Bootstrap standard error: 4.21069754 kJ/mol
+
+System: NNQQ+Water_NaCl
+Directory: NNQQ_WaterNa0.0001
+Valid trajectories: 15
+Common coordinate range: 0.91742900 to 5.01781000 nm
+Final relative free energy: -194.21030894 kJ/mol
+Bootstrap standard error: 4.51402775 kJ/mol
+
+System: NNQQ+Water_KCl
+Directory: NNQQ_WaterK0.0001
+Valid trajectories: 15
+Common coordinate range: 0.91707000 to 5.00218000 nm
+Final relative free energy: -204.78253657 kJ/mol
+Bootstrap standard error: 3.76883759 kJ/mol
+

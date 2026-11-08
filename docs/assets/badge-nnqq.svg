@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="28" role="img" aria-label="Peptide NNQQ">
+<title>Peptide NNQQ</title>
+<rect x=".5" y=".5" width="129" height="27" rx="6" fill="#131d30" stroke="#37435b"/>
+<path d="M 61 6 V 22" stroke="#37435b"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="11" text-anchor="middle">
+<text x="30.5" y="18" fill="#d6deee">Peptide</text>
+<text x="95.5" y="18" fill="#f4b9ec" font-weight="bold">NNQQ</text>
+</g></svg>

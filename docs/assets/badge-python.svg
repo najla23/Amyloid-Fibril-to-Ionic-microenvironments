@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="28" role="img" aria-label="Python 3.11.8">
+<title>Python 3.11.8</title>
+<rect x=".5" y=".5" width="137" height="27" rx="6" fill="#131d30" stroke="#37435b"/>
+<path d="M 65 6 V 22" stroke="#37435b"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="11" text-anchor="middle">
+<text x="32.5" y="18" fill="#d6deee">Python</text>
+<text x="101.5" y="18" fill="#ffd49f" font-weight="bold">3.11.8</text>
+</g></svg>

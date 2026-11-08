@@ -1,0 +1,43 @@
+{
+  "format_version": 1,
+  "settings": {
+    "DIRECTORIES": [
+      "NNQQ_Water0.0001",
+      "NNQQ_WaterNa0.0001",
+      "NNQQ_WaterK0.0001"
+    ],
+    "LABEL_DICT": {
+      "NNQQ_Water0.0001": "NNQQ+Water",
+      "NNQQ_WaterNa0.0001": "NNQQ+Water_NaCl",
+      "NNQQ_WaterK0.0001": "NNQQ+Water_KCl"
+    },
+    "COLOR_DICT": {
+      "NNQQ_Water0.0001": "orange",
+      "NNQQ_WaterNa0.0001": "magenta",
+      "NNQQ_WaterK0.0001": "purple"
+    },
+    "R_GAS": 0.008314462618,
+    "TEMPERATURE": 298.15,
+    "KT": 0.008314462618,
+    "BETA": 120.27235504494273,
+    "MAX_ROWS": 790000,
+    "N_GRID_POINTS": 3000,
+    "SMOOTHING_WINDOW": 200,
+    "N_BOOTSTRAP": 2000,
+    "RANDOM_SEED": 12345,
+    "TIME_DECIMALS": 6,
+    "MIN_TRAJECTORIES": 2,
+    "ERROR_DISPLAY": "sem"
+  },
+  "system_folders": {
+    "NNQQ_Water0.0001": "NNQQ_Water0.0001",
+    "NNQQ_WaterNa0.0001": "NNQQ_WaterNa0.0001",
+    "NNQQ_WaterK0.0001": "NNQQ_WaterK0.0001"
+  },
+  "python_version": "3.11.7",
+  "numpy_version": "1.26.3",
+  "analysis_script_sha256": "f0536406a0e73ae6a1f2aa2c337d74756f9cd44c2025787d2687ea7cfcac04e8",
+  "input_kind": "sorted unique positions and duplicate-averaged forces",
+  "first_column": "sample index, not simulation time",
+  "extra_position_cutoff": null
+}

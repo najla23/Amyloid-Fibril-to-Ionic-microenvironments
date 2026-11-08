@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "absolute_tolerance": 1e-10,
+  "maximum_absolute_differences": {
+    "distance": 0.0,
+    "free_energy": 0.0,
+    "bootstrap_sem": 0.0,
+    "common_distance": 0.0,
+    "work_profiles": 0.0,
+    "n_trajectories": 0.0,
+    "final_free_energy": 0.0,
+    "final_bootstrap_sem": 0.0
+  },
+  "numerically_exact": {
+    "distance": true,
+    "free_energy": true,
+    "bootstrap_sem": true,
+    "common_distance": true,
+    "work_profiles": true,
+    "n_trajectories": true,
+    "final_free_energy": true,
+    "final_bootstrap_sem": true
+  }
+}

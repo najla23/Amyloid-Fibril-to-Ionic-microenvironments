@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="28" role="img" aria-label="GROMACS 2022.2">
+<title>GROMACS 2022.2</title>
+<rect x=".5" y=".5" width="153" height="27" rx="6" fill="#131d30" stroke="#37435b"/>
+<path d="M 72 6 V 22" stroke="#37435b"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="11" text-anchor="middle">
+<text x="36.0" y="18" fill="#d6deee">GROMACS</text>
+<text x="113.0" y="18" fill="#b9d4ff" font-weight="bold">2022.2</text>
+</g></svg>
