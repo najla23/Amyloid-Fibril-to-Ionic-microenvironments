@@ -1,0 +1,26 @@
+# This file was created Wed Oct 21 16:17:07 2026
+# Created by:
+#              :-) GROMACS - gmx energy, 2025.3-EasyBuild_5.2.1 (-:
+# 
+# Executable:   /software/sse2/el9_epyc9005/easybuild/prefix/software/GROMACS/2025.3-foss-2025b/bin/gmx_mpi
+# Data prefix:  /software/sse2/el9_epyc9005/easybuild/prefix/software/GROMACS/2025.3-foss-2025b
+# Working dir:  /nobackup/proj/disk/naiss2026-3-821/personal/najla23/order/control/jarzynski-slow_0
+# Command line:
+#   gmx_mpi energy -f rerun_energy.edr -o CHARMM_Energy_Dimer.xvg -e 0 -b 0
+# gmx energy is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Coul-SR:a_15406-15470-a_14366-14430"
+@ s1 legend "LJ-SR:a_15406-15470-a_14366-14430"
+    0.000000  -78.604301   51.809944
